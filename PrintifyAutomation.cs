@@ -12,13 +12,13 @@ namespace PrintifyAutomation
 
         public PrintifyAutomation()
         {
-            var options = new EdgeOptions();
-            //var options = new ChromeOptions();
+            //var options = new EdgeOptions();
+            var options = new ChromeOptions();
             options.AddArgument("--start-maximized");
             options.AddArgument("--no-sandbox");
-            options.DebuggerAddress = "localhost:9444";
-            driver = new EdgeDriver(options);
-            //driver = new ChromeDriver(options);
+            options.DebuggerAddress = "localhost:9445";
+            //driver = new EdgeDriver(options);
+            driver = new ChromeDriver(options);
             wait = new WebDriverWait(driver, TimeSpan.FromSeconds(10))
             {
                 PollingInterval = TimeSpan.FromMilliseconds(1000),

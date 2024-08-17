@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "D:\\Workspace\\PrintifyAutomation\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{28AE375D-C0BF-4478-BBCF-11AC06877802}|PrintifyAutomation.csproj|d:\\workspace\\printifyautomation\\printifyautomation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28AE375D-C0BF-4478-BBCF-11AC06877802}|PrintifyAutomation.csproj|solutionrelative:printifyautomation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28AE375D-C0BF-4478-BBCF-11AC06877802}|PrintifyAutomation.csproj|d:\\workspace\\printifyautomation\\browserlauncher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28AE375D-C0BF-4478-BBCF-11AC06877802}|PrintifyAutomation.csproj|solutionrelative:browserlauncher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{28AE375D-C0BF-4478-BBCF-11AC06877802}|PrintifyAutomation.csproj|d:\\workspace\\printifyautomation\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{28AE375D-C0BF-4478-BBCF-11AC06877802}|PrintifyAutomation.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
@@ -31,6 +39,32 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "PrintifyAutomation.cs",
+              "DocumentMoniker": "D:\\Workspace\\PrintifyAutomation\\PrintifyAutomation.cs",
+              "RelativeDocumentMoniker": "PrintifyAutomation.cs",
+              "ToolTip": "D:\\Workspace\\PrintifyAutomation\\PrintifyAutomation.cs",
+              "RelativeToolTip": "PrintifyAutomation.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvxAAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T04:13:27.42Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BrowserLauncher.cs",
+              "DocumentMoniker": "D:\\Workspace\\PrintifyAutomation\\BrowserLauncher.cs",
+              "RelativeDocumentMoniker": "BrowserLauncher.cs",
+              "ToolTip": "D:\\Workspace\\PrintifyAutomation\\BrowserLauncher.cs",
+              "RelativeToolTip": "BrowserLauncher.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwwAAABgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T04:12:47.522Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "D:\\Workspace\\PrintifyAutomation\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",

@@ -1,0 +1,10 @@
+D:\temp\PrintifyAutomation.pdb
+D:\temp\selenium-manager\linux\selenium-manager
+D:\temp\selenium-manager\macos\selenium-manager
+D:\temp\selenium-manager\windows\selenium-manager.exe
+D:\temp\D3DCompiler_47_cor3.dll
+D:\temp\PenImc_cor3.dll
+D:\temp\PresentationNative_cor3.dll
+D:\temp\vcruntime140_cor3.dll
+D:\temp\wpfgfx_cor3.dll
+D:\temp\PrintifyAutomation.exe
